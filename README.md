@@ -1,13 +1,13 @@
 # utl_graphics_400_SAS_and_R_graphics_with_code_and_datasets
 Over 400 SAS and R sample graphs in one pdf and a second file sith datasets and code.
 
-    ```  Single pdf with 400 Sample SAS and R graphics with datasets and copy og code in separate file                                                                ```
+    ```  Single pdf with 589 psges with Sample SAS and R graphics with datasets and copy of code in separate file                                                                ```
     ```                                                                                                                                                               ```
     ```  see                                                                                                                                                          ```
     ```   Over 400 SAS and R sample graphs in one pdf and a second file sith datasets and code.                                                                       ```
     ```                                                                                                                                                               ```
     ```  see my github  ( R and SAS)                                                                                                                                  ```
-    ```  https://github.com/rogerjdeangelis/utl_graphics_400_SAS_and_R_graphics_with_code_and_datasets                                                                ```
+    ```  https://github.com/rogerjdeangelis/utl_graphics_589_SAS_and_R_graphics_with_code_and_datasets                                                                ```
     ```                                                                                                                                                               ```
     ```  SAS samples                                                                                                                                                  ```
     ```  ===========                                                                                                                                                  ```
